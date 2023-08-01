@@ -6,5 +6,6 @@
 
 ## How to run the project:
 
-Write in the terminal => **docker-compose up**
-Write in the terminal => **docker-compose run web python manage.py migrate**
+1. Write in the terminal => **docker-compose up**
+
+2. Write in the terminal => **docker-compose run web python manage.py migrate**
